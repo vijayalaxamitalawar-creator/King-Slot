@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">King Slot</string>
+    <string name="login_title">Login to King Slot</string>
+    <string name="register_title">Register for King Slot</string>
+    <string name="welcome_message">Welcome to the Ultimate Slot Gaming Experience!</string>
+</resources>
