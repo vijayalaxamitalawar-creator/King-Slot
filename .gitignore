@@ -1,0 +1,36 @@
+# Android
+*.apk
+*.aar
+*.ap_
+*.dex
+*.class
+.gradle
+build/
+.idea/
+*.iml
+*.keystore
+*.jks
+local.properties
+
+# Admin Panel
+node_modules/
+.env
+.env.local
+dist/
+
+# Firebase
+google-services.json
+ServiceAccountKey.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.sublime-project
+.sublime-workspace
+
+# Logs
+*.log
+npm-debug.log*
